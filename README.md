@@ -1,2 +1,2 @@
-# C43 pair
+# C42 pair
 
